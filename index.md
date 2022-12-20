@@ -1,6 +1,7 @@
 ---
 title: 45ACC
-feature_text:  # 45th Australasian Combinatorics Conference
+feature_text: |
+   # 45th Australasian Combinatorics Conference
    11th - 15th December 2023, at The University of Western Australia
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "ACC is the annual conference of the Combinatorial Mathematics Society of Australasia (CMSA). "
