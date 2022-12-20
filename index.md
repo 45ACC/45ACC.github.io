@@ -1,9 +1,10 @@
 ---
 title: 45th Australasian Combinatorics Conference
 feature_text: |
-  11th - 15th December 2023, at The University of Western Australia
+  # 45th Australasian Combinatorics Conference
+   11th - 15th December 2023, at The University of Western Australia
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "ACC is the annual conference of the Combinatorial Mathematics Society of Australasia (CMSA). "
 ---
 
 ## About
