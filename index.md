@@ -1,5 +1,5 @@
 ---
-title: 45th Australasian Combinatorics Conference
+title: 
 feature_text: |
   # 45th Australasian Combinatorics Conference
    11th - 15th December 2023, at The University of Western Australia
