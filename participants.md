@@ -7,7 +7,7 @@ excerpt: "participants"
 aside: false
 ---
 
-- John Bambaerg, The University of Western Australia
+- John Bamberg, The University of Western Australia
 - Michael Giudici, The University of Western Australia
 - Gordon Royle, The University of Western Australia
 
