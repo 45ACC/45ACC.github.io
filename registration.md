@@ -4,7 +4,7 @@ feature_text: |
   Registration
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "Registration page"
-aside: true
+aside: false
 ---
 
 ## How to register
