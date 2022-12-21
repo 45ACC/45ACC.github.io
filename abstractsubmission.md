@@ -1,7 +1,7 @@
 ---
 title: Abstract submission
 feature_text: |
-  Amstract submission
+  Abstract submission
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "Abstract submission page"
 aside: false
