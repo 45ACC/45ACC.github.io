@@ -125,8 +125,14 @@ navigation_header:
   url: /
 - title: Registration
   url: /registration/
+- title: Abstract submission
+  url: /abstractsubmission/
 - title: Student Information
   url: /studentinfo/
+- title: Programme
+  url: /programme/
+- title: Registered participants
+  url: /participants/  
 - title: Search
   url: /search/
 
