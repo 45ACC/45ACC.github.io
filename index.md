@@ -16,8 +16,10 @@ The 45th ACC will be hosted by [The University of Western Australia](https://www
 ### Invited speakers
 
 - [Sara Davies](https://smp.uq.edu.au/profile/270/sara-davies) (The University of Queensland)
+- [Gary Greaves](https://personal.ntu.edu.sg/gary/) (Nanyang Technical University)
 - [Krystal Guo](https://krystalguo.com/) (University of Amsterdam)
 - [André Kündgen](https://public.csusm.edu/akundgen/) (California State University San Marcos)
+- [Padraig Ó Cathláin](https://sites.google.com/site/pocathain/) (Dublin City University)
 - [Tibor Szabó](https://page.mi.fu-berlin.de/szabo/) (Freie Universität Berlin)
 - [Geertrui Van de Voorde](https://www.math.canterbury.ac.nz/~g.voorde/) (University of Canterbury)
 - [Gabriel Verret](https://profiles.auckland.ac.nz/g-verret) (University of Auckland)
@@ -26,10 +28,15 @@ The 45th ACC will be hosted by [The University of Western Australia](https://www
 
 ### Organising committee
 
-A/Prof. John Bamberg, Prof. Michael Giudici, A/Prof. Gordon Royle.
+A/Prof. John Bamberg, Prof. Michael Giudici, Prof. Gordon Royle, Prof. Cheryl Praeger, A/Prof. Alice Devillers, Dr Luke Morgan.
 
 ### Contact
 
 [45ACCuwa@gmail.com](mailto:45ACCuwa@gmail.com)
 
 ### Sponsors and support
+
+We are very grateful for the support from the following institutions and organisations:
+- [The School of Physics, Mathematics, and Computing](https://www.uwa.edu.au/schools/Physics-Mathematics-Computing)
+- [Optiver](https://optiver.com/)
+- [The Institute of Combinatoricsand its Applications](http://the-ica.org/)
