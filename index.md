@@ -26,6 +26,9 @@ The 45th ACC will be hosted by [The University of Western Australia](https://www
 
 ### Key dates
 
+- Early bird registration deadline: 6 November 2023
+- Deadline for submission of abstracts: 27 November 2023 
+
 ### Organising committee
 
 A/Prof. John Bamberg, Prof. Michael Giudici, Prof. Gordon Royle, Prof. Cheryl Praeger, A/Prof. Alice Devillers, Dr Luke Morgan.
