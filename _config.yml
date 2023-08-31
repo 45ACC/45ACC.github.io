@@ -125,6 +125,8 @@ navigation_header:
   url: /
 - title: Registration
   url: /registration/
+- title: Accommodation
+  url: /accommodation/
 - title: Abstract submission
   url: /abstractsubmission/
 - title: Student Information
