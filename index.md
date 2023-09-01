@@ -43,3 +43,5 @@ We are very grateful for the support from the following institutions and organis
 - [The School of Physics, Mathematics, and Computing](https://www.uwa.edu.au/schools/Physics-Mathematics-Computing)
 - [Optiver](https://optiver.com/)
 - [The Institute of Combinatoricsand its Applications](http://the-ica.org/)
+
+![UWA](UWAlogo.png){height=50px}
