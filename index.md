@@ -40,11 +40,9 @@ A/Prof. John Bamberg, Prof. Michael Giudici, Prof. Gordon Royle, Prof. Cheryl Pr
 ### Sponsors and support
 
 We are very grateful for the support from the following institutions and organisations:
-- [The School of Physics, Mathematics, and Computing](https://www.uwa.edu.au/schools/Physics-Mathematics-Computing)
-- [Optiver](https://optiver.com/)
-- [The Institute of Combinatoricsand its Applications](http://the-ica.org/)
-
-{% include figure.html image="UWAlogo.png" width="150" height="50" %}{% include figure.html image="Optiverlogo.png" width = "150" height="50" %}{% include figure.html image="ICAlogo.png" width = "50" height="50" %}
+- [The School of Physics, Mathematics, and Computing](https://www.uwa.edu.au/schools/Physics-Mathematics-Computing) {% include figure.html image="UWAlogo.png" width="150" height="50" %}
+- [Optiver](https://optiver.com/) {% include figure.html image="Optiverlogo.png" width = "150" height="50" %}
+- [The Institute of Combinatoricsand its Applications](http://the-ica.org/) {% include figure.html image="ICAlogo.png" width = "150" height="50" %}
 
 
 
