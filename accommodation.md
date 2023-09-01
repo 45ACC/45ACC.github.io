@@ -1,6 +1,6 @@
 ---
 title: Accommodation
-feature_text: Accommodation
+feature_text: | # <span style="color:black">Accomodation</span>
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "Accommodation"
 aside: false
