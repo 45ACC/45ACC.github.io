@@ -1,14 +1,11 @@
 ---
 title: Registration
 feature_text: |
-   # <span style="color:white">Registration</span>
+   # <span style="color:black">Registration</span>
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "Registration page"
 aside: false
 ---
-
-
-## Registration fees
 
 | Type | Early bird | Standard |
 | :--- | :--- | :--- |
