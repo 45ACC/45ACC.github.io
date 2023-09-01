@@ -1,5 +1,3 @@
-# Accommodation
-
 ## St George's College
 
 We have reserved some rooms at St George's College. More information to come.
