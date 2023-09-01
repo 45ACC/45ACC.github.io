@@ -44,9 +44,8 @@ We are very grateful for the support from the following institutions and organis
 - [Optiver](https://optiver.com/)
 - [The Institute of Combinatoricsand its Applications](http://the-ica.org/)
 
-{% include figure.html image="UWAlogo.png" height="50" %}{% include figure.html image="Optiverlogo.png" height="50" %}{% include figure.html image="ICAlogo.png" height="50" %}
+{% include figure.html image="UWAlogo.png" width="150" height="50" %}{% include figure.html image="Optiverlogo.png" width = "150" height="50" %}{% include figure.html image="ICAlogo.png" width = "50" height="50" %}
 
-<img src="UWAlogo.png" alt="UWA" height="50"/><img src="Optiverlogo.png" alt="Optiver" height="50"/><img src="ICAlogo.png" alt="ICA" height="50"/>
 
 
 
