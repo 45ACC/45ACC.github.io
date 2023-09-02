@@ -1,8 +1,8 @@
 ---
 title: Registration
 feature_text: | 
-  # <span style="color:white">Registration</span>
-feature_image: "winthrop2.jpg"
+  # <span style="color:cyan">Registration</span>
+feature_image: "https://45acc.github.io/sunrise.png"
 excerpt: "Registration page"
 aside: false
 ---
