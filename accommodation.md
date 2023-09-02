@@ -1,7 +1,7 @@
 ---
 title: Accommodation
 feature_text: | 
-# <span style="color:cyan">Accomodation</span>
+  # <span style="color:cyan">Accomodation</span>
 feature_image: "sunrise.png"
 excerpt: "Accommodation"
 aside: false
