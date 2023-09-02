@@ -1,7 +1,8 @@
 ---
 title: Abstract submission
-feature_text: | #  Abstract submission
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_text: | # <span style="color:black">Title and abstract submission</span>
+
+feature_image: "UWA%20Aerial%20-%20Sunrise-1.jpg"
 excerpt: "Abstract submission page"
 aside: false
 ---
