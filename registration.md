@@ -3,6 +3,7 @@ title: Registration
 feature_text: |
    # <span style="color:black">Registration</span>
 feature_image: "https://picsum.photos/2560/600?image=873"
+layout: default
 excerpt: "Registration page"
 aside: false
 ---
