@@ -150,6 +150,8 @@ navigation_header:
 #  facebook: "#3B5998"
 #  Email: true
 
+  extensions: [tables]
+
 # Load custom fonts from fonts.google.com etc
 #
 # TIP: Try to keep the number of urls as low to reduce the performance cost
