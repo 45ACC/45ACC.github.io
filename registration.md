@@ -13,6 +13,8 @@ aside: false
 | CMSA life member | 370 | 440 |
 | Unwaged | 200 | 240 | 
 
+---
+
 - The Unwaged registration is for those who are not earning a full wage, including all students, retirees, and the unemployed.
 - The early bird deadline is November 6th, 2023.
 
