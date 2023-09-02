@@ -1,8 +1,7 @@
 ---
 title: Abstract submission
 feature_text: | # <span style="color:black">Title and abstract submission</span>
-
-feature_image: "UWA%20Aerial%20-%20Sunrise-1.jpg"
+feature_image: "sunrise.jpeg"
 excerpt: "Abstract submission page"
 aside: false
 ---
