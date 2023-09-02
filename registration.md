@@ -1,8 +1,8 @@
 ---
 title: Registration
-feature_text: |
-   # <span style="color:cyan">Registration</span>
-feature_image: "sunrise.jpg"
+feature_text: | 
+# <span style="color:white">Registration</span>
+feature_image: "sunrise.png"
 excerpt: "Registration page"
 aside: false
 ---
