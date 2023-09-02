@@ -1,7 +1,8 @@
 ---
 title: Accommodation
-feature_text: | # <span style="color:white">Accomodation</span>
-feature_image: "https://github.com/45ACC/45ACC.github.io/blob/452a666b6ef3c83c85344986af21ce8bc5f2b508/sunrise.jpg"
+feature_text: | 
+# <span style="color:cyan">Accomodation</span>
+feature_image: "sunrise.png"
 excerpt: "Accommodation"
 aside: false
 ---
