@@ -1,8 +1,8 @@
 ---
 title: Registration
 feature_text: |
-   # <span style="color:black">Registration</span>
-feature_image: "https://picsum.photos/2560/600?image=873"
+   # <span style="color:cyan">Registration</span>
+feature_image: "sunrise.jpg"
 excerpt: "Registration page"
 aside: false
 ---
