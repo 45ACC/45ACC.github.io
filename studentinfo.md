@@ -1,7 +1,8 @@
 ---
 title: Student information
-feature_text: | # Student information
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_text: | 
+   # <span style="color:cyan">Students</span>
+feature_image: "https://45acc.github.io/sunrise.png"
 excerpt: "Student information"
 aside: false
 ---
