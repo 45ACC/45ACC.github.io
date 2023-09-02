@@ -1,7 +1,7 @@
 ---
 title: Abstract submission
 feature_text: | # <span style="color:cyan">Title and abstract submission</span>
-feature_image: "sunrise.jpeg"
+feature_image: "sunrise.jpg"
 excerpt: "Abstract submission page"
 aside: false
 ---
