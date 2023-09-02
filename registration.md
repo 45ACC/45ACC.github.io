@@ -1,7 +1,7 @@
 ---
 title: Registration
 feature_text: | 
-# <span style="color:white">Registration</span>
+  # <span style="color:white">Registration</span>
 feature_image: "winthrop2.jpg"
 excerpt: "Registration page"
 aside: false
