@@ -1,7 +1,8 @@
 ---
 title: Programme
-feature_text: | # Programme
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_text: | 
+  # <span style="color:cyan">Programme</span>
+feature_image: "https://45acc.github.io/sunrise.png"
 excerpt: "Programme"
 aside: false
 ---
