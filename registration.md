@@ -22,7 +22,7 @@ aside: false
 
 You can register for the conference at [this link to the registration/payment page](https://payments.uwa.edu.au/45AACRegistration).
 
-**Currently, the payment system is not adding extra dinner and excursion tickets to the tally, so please only register (for the moment) if you are not requiring extra tickets.**
+> Currently, the payment system is not adding extra dinner and excursion tickets to the tally, so please only register (for the moment) if you are not requiring extra tickets.
 
 ## CMSA membership for one year
 
