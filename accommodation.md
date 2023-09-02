@@ -1,7 +1,7 @@
 ---
 title: Accommodation
-feature_text: | # <span style="color:black">Accomodation</span>
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_text: | # <span style="color:white">Accomodation</span>
+feature_image: "https://github.com/45ACC/45ACC.github.io/blob/452a666b6ef3c83c85344986af21ce8bc5f2b508/sunrise.jpg"
 excerpt: "Accommodation"
 aside: false
 ---
