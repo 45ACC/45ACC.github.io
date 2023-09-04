@@ -11,7 +11,7 @@ Registered participants are welcome to present a contributed talk at the confere
 
 ## How to submit
 
-To come
+Click on [this form](https://forms.gle/wvWwd2BrCQT9saPNA) and follow the prompts.
 
 ## Deadline
 
