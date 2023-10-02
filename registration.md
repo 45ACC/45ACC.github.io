@@ -24,15 +24,13 @@ aside: false
 
 You can register for the conference at [this link to the registration/payment page](https://payments.uwa.edu.au/45AACRegistration).
 
-> Currently, the payment system is not adding extra dinner and excursion tickets to the tally, so please only register (for the moment) if you are not requiring extra tickets.
-
 ## CMSA membership for one year
 
 Your registration will automatically include a one-year membership of the [Combinatorial Mathematics Society of Australasia (CMSA)](http://combinatorics-australasia.org/), if you are not already a life member of the CMSA.
 
 ## Excursion
 
-Details about the excursion will appear here. Provisionally, we plan to have two activities to choose from. More details to come.
+The excursion on the Wednesday afternoon of the conference will be a "Convict Prison Tour" at the [Fremantle Prison](https://fremantleprison.com.au/). The plan is that transport to Fremantle will be organised by the conference organisers, but after the tour, we are letting you find your way back. This allows everyone to explore greater Fremantle at their own pace ... there is much to see and do in Fremantle!
 
 ## Extras
 
