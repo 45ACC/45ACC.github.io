@@ -18,6 +18,8 @@ aside: false
 - The Unwaged registration is for those who are not earning a full wage, including all students, retirees, and the unemployed.
 - The early bird deadline is November 6th, 2023.
 
+  > **Warning:** There is a scam email being sent out to potential registrants from Traveller Point. Do not respond or follow the instructions in this email ... it is a scam.
+
 ## How to register
 
 You can register for the conference at [this link to the registration/payment page](https://payments.uwa.edu.au/45AACRegistration).
