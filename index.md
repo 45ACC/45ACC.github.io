@@ -42,7 +42,7 @@ A/Prof. John Bamberg, Prof. Michael Giudici, Prof. Gordon Royle, Prof. Cheryl Pr
 We are very grateful for the support from the following institutions and organisations:
 - [The School of Physics, Mathematics, and Computing](https://www.uwa.edu.au/schools/Physics-Mathematics-Computing) <img src="UWAlogo.png" alt="UWA" width="150" height="50" align="right" />
 - [Optiver](https://optiver.com/) <img src="Optiverlogo.png" alt="Optiver" width = "150" height="50" align="right"/>
-- [The Institute of Combinatoricsand its Applications](http://the-ica.org/) <img src="ICAlogo.png" width = "150" height="50" align="right" />
+- [The Institute of Combinatorics and its Applications](http://the-ica.org/) <img src="ICAlogo.png" width = "150" height="50" align="right" />
 
 
 
