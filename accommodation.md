@@ -8,7 +8,7 @@ aside: false
 ---
 
 
-A variety of rooms are available at St George's College. These include rooms with a shared bathroom or an ensuite and come with a continental breakfast. A booking can be made at 
+A variety of rooms are available at St George's College (across the road from UWA). These include rooms with a shared bathroom or an ensuite and come with a continental breakfast. A booking can be made at 
 
 [https://stgc.uwa.edu.au/bookonline](https://stgc.uwa.edu.au/bookonline)
 
