@@ -18,5 +18,18 @@ aside: false
 9. Masatake Hirao, Aichi Prefectural University
 10. Ian Wanless, Monash University
 11. Yuxuan Li, The University of Melbourne
+12. Zaochen Ding, The University of Auckland
+13. Robert Hickingbotham, Monash University
+14. Marc Distel, Monash University
+15. George Savvoudis, The University of Adelaide
+16. Charles Semple, University of Canterbury
+17. Catherine Greenhill, UNSW
+18. Jeremy Mitchell, The University of Queensland
+19. Binzhou Xia, The University of Melbourne
+20. David Wood, Monash University
+21. Nick Brettell, Victoria University of Wellington
+22. Shohei Satake, Kumamoto University
+23. Wipawee Tangjai, Mahasarakham University
+24. Afsane Ghafari, Monash University
 
 
