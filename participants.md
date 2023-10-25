@@ -20,7 +20,7 @@ aside: false
 11. Yuxuan Li, The University of Melbourne
 12. Zaochen Ding, The University of Auckland
 13. Robert Hickingbotham, Monash University
-14. Marc Distel, Monash University
+14. ---
 15. George Savvoudis, The University of Adelaide
 16. Charles Semple, University of Canterbury
 17. Catherine Greenhill, UNSW
@@ -31,5 +31,18 @@ aside: false
 22. Shohei Satake, Kumamoto University
 23. Wipawee Tangjai, Mahasarakham University
 24. Afsane Ghafari, Monash University
+25. Đorđe Mitrović, University of Auckland
+26. Florian Lehner, University of Auckland
+27. Zhishuo Zhang, The University of Melbourne
+28. Yusuf Hafidh, University of Melbourne
+29. Pawaton Kaemawichanurat, King Mongkut's University of Technology Thonburi
+30. Charles Colbourn, Arizona State University
+31. Violet Syrotiuk, Arizona State University
+32. Chuanqi Zhang, University of Technology Sydney
+33. Thomas Lesgourgues, UNSW
+34. Tatsuya Maruta, Osaka Metropolitan University
+35. Yusuke Miura, Osaka Metropolitan University
+36. Keita Sakai, Osaka Metropolitan University
+
 
 
