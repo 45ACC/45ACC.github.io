@@ -42,7 +42,7 @@ aside: false
 33. Thomas Lesgourgues, UNSW
 34. Tatsuya Maruta, Osaka Metropolitan University
 35. Yusuke Miura, Osaka Metropolitan University
-36. Keita Sakai, Osaka Metropolitan University
+36. Keita Yasufuku, Osaka Metropolitan University
 
 
 
