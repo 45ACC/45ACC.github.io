@@ -19,7 +19,7 @@ The 45th ACC will be hosted by [The University of Western Australia](https://www
 - [Gary Greaves](https://personal.ntu.edu.sg/gary/) (Nanyang Technical University)
 - [Krystal Guo](https://krystalguo.com/) (University of Amsterdam)
 - [André Kündgen](https://public.csusm.edu/akundgen/) (California State University San Marcos)
-- [Padraig Ó Cathláin](https://sites.google.com/site/pocathain/) (Dublin City University)
+- [Padraig Ó Catháin](https://sites.google.com/site/pocathain/) (Dublin City University)
 - [Tibor Szabó](https://page.mi.fu-berlin.de/szabo/) (Freie Universität Berlin)
 - [Geertrui Van de Voorde](https://www.math.canterbury.ac.nz/~g.voorde/) (University of Canterbury)
 - [Gabriel Verret](https://profiles.auckland.ac.nz/g-verret) (University of Auckland)
