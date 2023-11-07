@@ -24,6 +24,9 @@ aside: false
 
 You can register for the conference at [this link to the registration/payment page](https://payments.uwa.edu.au/45AACRegistration).
 
+Abstract submission is done separately. If you would like to give a contributed talk, click on [this form](https://forms.gle/wvWwd2BrCQT9saPNA) and follow the prompts. Abstracts should be submitted by 27 November 2023.
+
+
 ## CMSA membership for one year
 
 Your registration will automatically include a one-year membership of the [Combinatorial Mathematics Society of Australasia (CMSA)](http://combinatorics-australasia.org/), if you are not already a life member of the CMSA.
