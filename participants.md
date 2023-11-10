@@ -43,6 +43,28 @@ aside: false
 34. Tatsuya Maruta, Osaka Metropolitan University
 35. Yusuke Miura, Osaka Metropolitan University
 36. Keita Yasufuku, Osaka Metropolitan University
+37. Saul Freedman, The University of Western Australia
+38. Stefano Lia, University College Dublin
+39. Abdul Basit, Monash University
+40. Dani Gentle, Monash University
+41. Toru Hasunuma, Tokushima University
+42. Thomas Britz, UNSW 
+43. Ajani De Vas Gunasekara, Monash University
+44. Nick Brettell, Victoria University of Wellington
+45. Alice Lacaze-Masmonteil, University of Ottawa
+46. Hongyi Lyu, Monash University
+47. Jan De Beule, Vrije Universiteit Brussel
+48. Daniel Hawtin, University of Rijeka
+49. Adam Mammoliti, Monash University
+50. Melissa Lee, Monash University
+51. Tomasz Popiel, Monash University
+52. Hao Chuien Hang, The University of Queensland
+53. Lukas Klawuhn, Paderborn University
+54. Keisuke Shiromoto, Kumamoto University
+55. Rajko Nenadov, University of Auckland
+56. Koji Imamura, Kumamoto University
+57. Mikhail Isaev, Monash University
+58. Abdullahi Umar, UAE 
 
 
 
