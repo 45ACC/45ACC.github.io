@@ -20,6 +20,7 @@ The 45th ACC will be hosted by [The University of Western Australia](https://www
 - [Gary Greaves](https://personal.ntu.edu.sg/gary/) (Nanyang Technical University)
   > How to design a graph with three eigenvalues
 - [Krystal Guo](https://krystalguo.com/) (University of Amsterdam)
+  > Algebraic graph theory and quantum walks
 - [André Kündgen](https://public.csusm.edu/akundgen/) (California State University San Marcos)
   > The Saturation Spectrum of odd cycles
 - [Padraig Ó Catháin](https://sites.google.com/site/pocathain/) (Dublin City University)
