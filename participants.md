@@ -64,7 +64,16 @@ aside: false
 55. Rajko Nenadov, University of Auckland
 56. Koji Imamura, Kumamoto University
 57. Mikhail Isaev, Monash University
-58. Abdullahi Umar, UAE 
+58. Abdullahi Umar, UAE
+59. Jack Allsop, Monash University
+60. Anton Baylakov, The University of Western Australia
+61. David Yost, Federation University
+62. John Mel Dacaymat, University of the Philippines Diliman
+63. Jiw Wang, Federation University
+64. Alena Ernst, Paderborn University
+65. Koji Imamura, Kumamoto University
+
+
 
 
 
