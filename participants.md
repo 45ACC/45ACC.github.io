@@ -7,6 +7,8 @@ excerpt: "participants"
 aside: false
 ---
 
+Below is a list of participants that have agreed to have their name posted here. There are 2 participants not in this list.
+
 1. John Bamberg, The University of Western Australia
 2. Alice Devillers, The University of Western Australia
 3. Michael Giudici, The University of Western Australia
@@ -72,6 +74,7 @@ aside: false
 63. Jiw Wang, Federation University
 64. Alena Ernst, Paderborn University
 65. Koji Imamura, Kumamoto University
+66. Shinya Kawabuchi, Kumamoto University
 
 
 
