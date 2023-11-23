@@ -29,6 +29,7 @@ The 45th ACC will be hosted by [The University of Western Australia](https://www
 - [Geertrui Van de Voorde](https://www.math.canterbury.ac.nz/~g.voorde/) (University of Canterbury)
   > 'Segre-type' theorems: combinatorial characterisations for algebraic objects
 - [Gabriel Verret](https://profiles.auckland.ac.nz/g-verret) (University of Auckland)
+  > Local actions and eigenspaces of vertex-transitive graphs
 
 ### Key dates
 
