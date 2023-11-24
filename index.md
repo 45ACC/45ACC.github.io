@@ -26,7 +26,7 @@ The 45th ACC will be hosted by [The University of Western Australia](https://www
 - [Padraig Ó Catháin](https://sites.google.com/site/pocathain/) (Dublin City University)
   > Quadratic forms in design theory
 - [Tibor Szabó](https://page.mi.fu-berlin.de/szabo/) (Freie Universität Berlin)
-  > TBA
+  > New Ramsey multiplicity bounds and search heuristics
 - [Geertrui Van de Voorde](https://www.math.canterbury.ac.nz/~g.voorde/) (University of Canterbury)
   > 'Segre-type' theorems: combinatorial characterisations for algebraic objects
 - [Gabriel Verret](https://profiles.auckland.ac.nz/g-verret) (University of Auckland)
