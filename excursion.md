@@ -1,9 +1,9 @@
 ---
 title: Excursion
 feature_text: | 
-  # <span style="color:cyan">Excursion - Fremantle Gaol</span>
+  # <span style="color:cyan">Excursion</span>
 feature_image: "https://45acc.github.io/sunrise.png"
-excerpt: "Excursion"
+excerpt: "Excursion - Fremantle Gaol"
 aside: false
 ---
 
@@ -12,18 +12,18 @@ aside: false
 The coach leaves UWA Tennis Courts at 13:30 (near Hackett Drive) (add map). It will take us directly to the prison, so please get lunch first.
 
 The convict tour promises the following:
->>Discover the history of Fremantle Prison from its construction in the 1850s until the end of the convict era in 1886.
->>
->>Find out why almost 10,000 men were transported from Great Britain and Ireland, how they built their own prison and helped shape the future of Western Australia.
->>
->>Discover our history through their stories.
+> Discover the history of Fremantle Prison from its construction in the 1850s until the end of the convict era in 1886.
+>
+> Find out why almost 10,000 men were transported from Great Britain and Ireland, how they built their own prison and helped shape the future of Western Australia.
+> 
+> Discover our history through their stories.
 
 
 After the tour we encourage you to wander around Fremantle town - it has recently been described as the best example of an urban walkable city in Western Australia!
 
 Things to do in Fremantle after escaping the prison:
 
->sights: 
+## sights
 
 * [The Roundhouse](https://www.fremantleroundhouse.com.au) - the original jail. A nice spot to look over the city.
 * [Fremantle Arts Centre](https://www.fac.org.au) - both an exhibition space for youthful experimental art and a residency for artists.
@@ -36,10 +36,10 @@ Things to do in Fremantle after escaping the prison:
 
 
 
+## shopping
 
+> Wandering down any of Market Street, South Terrace or High Street, you will find plenty of  Fremantle original stores worth a perusal. Some suggestions...
 
-
->shopping: Wandering down any of Market Street, South Terrace or High Street, you will find plenty of Fremantle original stores worth a perusal. Some suggestions...
 * [Elizabeth's Secondhand bookshop](https://www.elizabethsbookshop.com.au). Used book store with plenty of options to rifle though.
 * [Bill Campell's Books](http://bill-campbell-books.edan.io/) For whatever you can't find at Elizabeth's.
 * [New Edition](http://www.newedition.com.au/). An institution of Fremantle for 30 years. Perfect for late night browsing and reading.
@@ -48,9 +48,8 @@ Things to do in Fremantle after escaping the prison:
 * The map store. On high street, so many maps!
 *  Kakula's sister on Market street. Go back in time to an authentic bazaar.
 
+## wine bars
 
-
->wine bars:
 * Nieuw Ruin.
 * Strange Company.
 * [Vin Populi](https://www.vinpopuli.com.au/)
@@ -58,7 +57,7 @@ Things to do in Fremantle after escaping the prison:
 * Whisper wine bar.
 
 
->breweries:
+## breweries
 
 * running with thieves. Newest brewery. A bit of a walk, south Fremantle.
 * little creatures. Very recommended, an original Fremantle creation that has now spread to Auckland and London.
@@ -66,7 +65,8 @@ Things to do in Fremantle after escaping the prison:
 * [Beerpourium](https://beerpourium.com.au). On Market Street, many many craft beers served.
 * Sunshine harvester. A bit of a stretch, north of train station. Here you can find a brewery together with lots of eateries in a converted warehouse, good vibes.
 
->pubs:
+## pubs
+
 * Darling Darling. Sailing themed pub with peanuts at each seat and shells on the floor.
 * The Sail and Anchor. Large pub with balcony.
 * Jungle Bird. The backpacker favourite.
@@ -77,8 +77,10 @@ Things to do in Fremantle after escaping the prison:
 * The Old Courthouse. Huge pub, good setting in refurbished courthouse.
 
 
+## eating
 
->eating : most of the beer places/wine bars offer food, but those below are restaurants first and foremost.
+> most of the beer places/wine bars offer food, but those below are restaurants first and foremost.
+
 * Emily Taylor. Asian.
 * Suku (in Fomo). Great authentic Indonesian food.
 * Sailing for Oranges. "Modern Australian".
