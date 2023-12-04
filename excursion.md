@@ -1,13 +1,12 @@
 ---
 title: Excursion
 feature_text: | 
-  # <span style="color:cyan">Excursion</span>
+  # <span style="color:cyan">Excursion - Fremantle Gaol</span>
 feature_image: "https://45acc.github.io/sunrise.png"
 excerpt: "Excursion"
 aside: false
 ---
 
-# Excursion - Fremantle Gaol
 
 > Our excursion is to **[Fremantle Prison](https://fremantleprison.com.au)**. We are joining the Convict Prison Tour at 14:15.
 The coach leaves UWA Tennis Courts at 13:30 (near Hackett Drive) (add map). It will take us directly to the prison, so please get lunch first.
