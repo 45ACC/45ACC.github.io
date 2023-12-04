@@ -41,40 +41,41 @@ Below is a list of participants that have agreed to have their name posted here.
 30. Charles Colbourn, Arizona State University
 31. Violet Syrotiuk, Arizona State University
 32. Chuanqi Zhang, University of Technology Sydney
-33. Thomas Lesgourgues, UNSW
-34. Tatsuya Maruta, Osaka Metropolitan University
-35. Yusuke Miura, Osaka Metropolitan University
-36. Keita Yasufuku, Osaka Metropolitan University
-37. Saul Freedman, The University of Western Australia
-38. Stefano Lia, University College Dublin
-39. Abdul Basit, Monash University
-40. Dani Gentle, Monash University
-41. Toru Hasunuma, Tokushima University
-42. Thomas Britz, UNSW 
-43. Ajani De Vas Gunasekara, Monash University
-44. Nick Brettell, Victoria University of Wellington
-45. Alice Lacaze-Masmonteil, University of Ottawa
-46. Hongyi Lyu, Monash University
-47. Jan De Beule, Vrije Universiteit Brussel
-48. Daniel Hawtin, University of Rijeka
-49. Adam Mammoliti, Monash University
-50. Melissa Lee, Monash University
-51. Tomasz Popiel, Monash University
-52. Hao Chuien Hang, The University of Queensland
-53. Lukas Klawuhn, Paderborn University
-54. Keisuke Shiromoto, Kumamoto University
-55. Rajko Nenadov, University of Auckland
-56. Koji Imamura, Kumamoto University
-57. Mikhail Isaev, Monash University
-58. Abdullahi Umar, UAE
-59. Jack Allsop, Monash University
-60. Anton Baylakov, The University of Western Australia
-61. David Yost, Federation University
-62. John Mel Dacaymat, University of the Philippines Diliman
-63. Jiw Wang, Federation University
-64. Alena Ernst, Paderborn University
-65. Koji Imamura, Kumamoto University
-66. Shinya Kawabuchi, Kumamoto University
+33. Thomas Lesgourgues, University of Waterloo
+34. Brendan McKay, Australian National University
+35. Tatsuya Maruta, Osaka Metropolitan University
+36. Yusuke Miura, Osaka Metropolitan University
+37. Keita Yasufuku, Osaka Metropolitan University
+38. Saul Freedman, The University of Western Australia
+39. Stefano Lia, University College Dublin
+40. Abdul Basit, Monash University
+41. Dani Gentle, Monash University
+42. Toru Hasunuma, Tokushima University
+43. Thomas Britz, UNSW 
+44. Ajani De Vas Gunasekara, Monash University
+45. Nick Brettell, Victoria University of Wellington
+46. Alice Lacaze-Masmonteil, University of Ottawa
+47. Hongyi Lyu, Monash University
+48. Jan De Beule, Vrije Universiteit Brussel
+49. Daniel Hawtin, University of Rijeka
+50. Adam Mammoliti, Monash University
+51. Melissa Lee, Monash University
+52. Tomasz Popiel, Monash University
+53. Hao Chuien Hang, The University of Queensland
+54. Lukas Klawuhn, Paderborn University
+55. Keisuke Shiromoto, Kumamoto University
+56. Rajko Nenadov, University of Auckland
+57. Koji Imamura, Kumamoto University
+58. Mikhail Isaev, Monash University
+59. Abdullahi Umar, UAE
+60. Jack Allsop, Monash University
+61. Anton Baykalov, The University of Western Australia
+62. David Yost, Federation University
+63. John Mel Dacaymat, University of the Philippines Diliman
+64. Jiw Wang, Federation University
+65. Alena Ernst, Paderborn University
+66. Koji Imamura, Kumamoto University
+67. Shinya Kawabuchi, Kumamoto University
 
 
 
