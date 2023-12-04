@@ -32,88 +32,385 @@ On the Sunday evening (5pm), there will be a Welcome Reception in EZone North, s
 Registration and Welcome Reception (EZone): 17:00 — 19:00.
 
 
-## Monday 
-
------------
-   |  **Weatherburn LT** |     **Blakers LT**  |    **Praeger LR**|
-| :--: | :--- | :---| :--- |
-|   8.00 -- 8.45     |   Registration                            
-|    8.45 -- 9.00     | Opening address (Prof Mark Reynolds)                        
-|   9.00 -- 10:00     | *Gabriel Verret*                          
-|  10.00 -- 10.30     |  Morning tea                             
-|   10.30 -- 11.00    |      Chen\*  |             Bastida\*       |     Santos
-   11.00 -- 11.30          Ding\*                Tangjai             Wang\*
-   11.30 -- 12.00        Mitrović\*             Farooq\*              Yost
-   12.00 -- 12.30        Dacaymat\*              Semple               Umar
-   12.30 -- 14.30       Lunch break                             
-   14.30 -- 15.30   *CMSA Prize Winner*                         
-   15.30 -- 16.00      Afternoon tea                            
-   16.00 -- 16.30          Basit               Bunjamin\*       
-   16.30 -- 17.00         Liebenau             Mitchell\*       
-   17.00 -- 17.30         Hasunuma         Lacaze-Masmonteil\*  
-
-## Tuesday 
-
-                    **Weatherburn LT**   **Blakers LT**   **Praeger LR**
-  ---------------- -------------------- ---------------- -----------------
-   9.00 -- 10:00      *Krystal Guo*                      
-   10.00 -- 10.30      Morning tea                       
-   10.30 -- 11.00    Hickingbotham\*        Briones      
-   11.00 -- 11.30        Distel\*          Mammoliti     
-   11.30 -- 12.00        Brettell           Ernst\*      
-   12:00 -- 12:30          Wood            Klawuhn\*     
-   12.30 -- 14.30      Lunch break                       
-   14.30 -- 15.30     *Gary Greaves*                     
-   15.30 -- 16.00     Afternoon tea                      
-   16.00 -- 16.30        Allsop\*           Imamura      
-   16.30 -- 17.00       Ghafari\*          Kawabuchi     
-   17.00 -- 17.30        CMSA AGM                        
-
-## Wednesday 
-
-                    **Weatherburn LT**   **Blakers LT**   **Praeger LR**
-  ---------------- -------------------- ---------------- -----------------
-   9.00 -- 10:00     *André Kündgen*                     
-   10.00 -- 10.30      Morning tea                       
-   10.30 -- 11.00        Gentle\*            Lehner      
-   11.00 -- 11.30        Syrotiuk           Hafidh\*        Gunasekara
-   11.30 -- 12.00         Hirao              Maruta           Smith\*
-   12.00 -- 12:30         Hawtin            Yasufuku           Li\*
-   12.30 -- 14.00      Lunch break                       
-   14.00 -- 17.00      *Excursion*                       
-
-## Thursday 
-
-                       **Weatherburn LT**      **Blakers LT**   **Praeger LR**
-  ---------------- -------------------------- ---------------- ----------------
-   9.00 -- 10:00         *Tibor Szabó*                         
-   10.00 -- 10.30         Morning tea                          
-   10.30 -- 11.00          Arumugam\*              Satake      
-   11.00 -- 11.30            Miura                Zhang\*      
-   11.30 -- 12.00             Lia                 Nenadov      
-   12.00 -- 12.30           De Beule                           
-   12.30 -- 14.30         Lunch break                          
-   14.30 -- 15.30   *Geertrui Van de Voorde*                   
-   15.30 -- 16.00        Afternoon tea                         
-   16.00 -- 16.30            McKay                             
-   16.30 -- 17.00           Colbourn                           
-   17.00 -- 17.30           Wanless                            
-
-18.30: Conference dinner (UniClub)\
-
-## Friday
-
-                    **Weatherburn LT**    **Blakers LT**
-  ---------------- --------------------- ----------------
-   9.00 -- 10:00       *Sara Davies*     
-   10.00 -- 10.30       Morning tea      
-   10.30 -- 11.00     Kaemawichanurat         Popiel
-   11.00 -- 11.30        Greenhill           Freedman
-   11.30 -- 12.00          Isaev             Lansdown
-   12.00 -- 14.00       Lunch break      
-   14.30 -- 15.30   *Padraig Ó Catháin*  
-   15.30 -- 16.00      Afternoon tea     
-
+<h2 class="unnumbered" id="monday">Monday</h2>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;"></th>
+<th style="text-align: center;"><span><strong>Weatherburn
+LT</strong></span></th>
+<th style="text-align: center;"><span><strong>Blakers
+LT</strong></span></th>
+<th style="text-align: center;"><span><strong>Praeger LR</strong>
+</span></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">8.00 – 8.45</td>
+<td style="text-align: center;">Registration</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">8.45 – 9.00</td>
+<td style="text-align: center;">Opening address</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"></td>
+<td style="text-align: center;">(Prof Mark Reynolds)</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">9.00 – 10:00</td>
+<td style="text-align: center;"><span><em>Gabriel
+Verret</em></span></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">10.00 – 10.30</td>
+<td colspan="3" style="text-align: center;">Morning tea</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">10.30 – 11.00</td>
+<td style="text-align: center;">Chen*</td>
+<td style="text-align: center;">Bastida*</td>
+<td style="text-align: center;">Santos</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">11.00 – 11.30</td>
+<td style="text-align: center;">Ding*</td>
+<td style="text-align: center;">Tangjai</td>
+<td style="text-align: center;">Wang*</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">11.30 – 12.00</td>
+<td style="text-align: center;">Mitrović*</td>
+<td style="text-align: center;">Farooq*</td>
+<td style="text-align: center;">Yost</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">12.00 – 12.30</td>
+<td style="text-align: center;">Dacaymat*</td>
+<td style="text-align: center;">Semple</td>
+<td style="text-align: center;">Umar</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">12.30 – 14.30</td>
+<td colspan="3" style="text-align: center;">Lunch break</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">14.30 – 15.30</td>
+<td style="text-align: center;"><span><em>CMSA Prize
+Winner</em></span></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">15.30 – 16.00</td>
+<td colspan="3" style="text-align: center;">Afternoon tea</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">16.00 – 16.30</td>
+<td style="text-align: center;">Basit</td>
+<td style="text-align: center;">Bunjamin*</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">16.30 – 17.00</td>
+<td style="text-align: center;">Liebenau</td>
+<td style="text-align: center;">Mitchell*</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">17.00 – 17.30</td>
+<td style="text-align: center;">Hasunuma</td>
+<td style="text-align: center;">Lacaze-Masmonteil*</td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+<h2 class="unnumbered" id="tuesday">Tuesday</h2>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;"></th>
+<th style="text-align: center;"><span><strong>Weatherburn
+LT</strong></span></th>
+<th style="text-align: center;"><span><strong>Blakers
+LT</strong></span></th>
+<th style="text-align: center;"><span><strong>Praeger LR</strong>
+</span></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">9.00 – 10:00</td>
+<td style="text-align: center;"><span><em>Krystal Guo</em></span></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">10.00 – 10.30</td>
+<td colspan="3" style="text-align: center;">Morning tea</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">10.30 – 11.00</td>
+<td style="text-align: center;">Hickingbotham*</td>
+<td style="text-align: center;">Briones</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">11.00 – 11.30</td>
+<td style="text-align: center;">Distel*</td>
+<td style="text-align: center;">Mammoliti</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">11.30 – 12.00</td>
+<td style="text-align: center;">Brettell</td>
+<td style="text-align: center;">Ernst*</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">12:00 – 12:30</td>
+<td style="text-align: center;">Wood</td>
+<td style="text-align: center;">Klawuhn*</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">12.30 – 14.30</td>
+<td colspan="3" style="text-align: center;">Lunch break</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">14.30 – 15.30</td>
+<td style="text-align: center;"><span><em>Gary Greaves</em></span></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">15.30 – 16.00</td>
+<td colspan="3" style="text-align: center;">Afternoon tea</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">16.00 – 16.30</td>
+<td style="text-align: center;">Allsop*</td>
+<td style="text-align: center;">Imamura</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">16.30 – 17.00</td>
+<td style="text-align: center;">Ghafari*</td>
+<td style="text-align: center;">Kawabuchi</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">17.00 – 17.30</td>
+<td style="text-align: center;">CMSA AGM</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+<h2 class="unnumbered" id="wednesday">Wednesday</h2>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;"></th>
+<th style="text-align: center;"><span><strong>Weatherburn
+LT</strong></span></th>
+<th style="text-align: center;"><span><strong>Blakers
+LT</strong></span></th>
+<th style="text-align: center;"><span><strong>Praeger LR</strong>
+</span></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">9.00 – 10:00</td>
+<td style="text-align: center;"><span><em>André Kündgen</em></span></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">10.00 – 10.30</td>
+<td colspan="3" style="text-align: center;">Morning tea</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">10.30 – 11.00</td>
+<td style="text-align: center;">Gentle*</td>
+<td style="text-align: center;">Lehner</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">11.00 – 11.30</td>
+<td style="text-align: center;">Syrotiuk</td>
+<td style="text-align: center;">Hafidh*</td>
+<td style="text-align: center;">Gunasekara</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">11.30 – 12.00</td>
+<td style="text-align: center;">Hirao</td>
+<td style="text-align: center;">Maruta</td>
+<td style="text-align: center;">Smith*</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">12.00 – 12:30</td>
+<td style="text-align: center;">Hawtin</td>
+<td style="text-align: center;">Yasufuku</td>
+<td style="text-align: center;">Li*</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">12.30 – 14.00</td>
+<td colspan="3" style="text-align: center;">Lunch break</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">14.00 – 17.00</td>
+<td colspan="3" style="text-align: center;"><em>Excursion</em></td>
+</tr>
+</tbody>
+</table>
+<h2 class="unnumbered" id="thursday">Thursday</h2>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;"></th>
+<th style="text-align: center;"><span><strong>Weatherburn
+LT</strong></span></th>
+<th style="text-align: center;"><span><strong>Blakers
+LT</strong></span></th>
+<th style="text-align: center;"><span><strong>Praeger
+LR</strong></span></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">9.00 – 10:00</td>
+<td style="text-align: center;"><span><em>Tibor Szabó</em></span></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">10.00 – 10.30</td>
+<td colspan="3" style="text-align: center;">Morning tea</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">10.30 – 11.00</td>
+<td style="text-align: center;">Arumugam*</td>
+<td style="text-align: center;">Satake</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">11.00 – 11.30</td>
+<td style="text-align: center;">Miura</td>
+<td style="text-align: center;">Zhang*</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">11.30 – 12.00</td>
+<td style="text-align: center;">Lia</td>
+<td style="text-align: center;">Nenadov</td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">12.00 – 12.30</td>
+<td style="text-align: center;">De Beule</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">12.30 – 14.30</td>
+<td colspan="3" style="text-align: center;">Lunch break</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">14.30 – 15.30</td>
+<td style="text-align: center;"><span><em>Geertrui Van de
+Voorde</em></span></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">15.30 – 16.00</td>
+<td colspan="3" style="text-align: center;">Afternoon tea</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">16.00 – 16.30</td>
+<td style="text-align: center;">McKay</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">16.30 – 17.00</td>
+<td style="text-align: center;">Colbourn</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">17.00 – 17.30</td>
+<td style="text-align: center;">Wanless</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+<p>18.30: Conference dinner (UniClub)<br />
+</p>
+<h2 class="unnumbered" id="friday">Friday</h2>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;"></th>
+<th style="text-align: center;"><span><strong>Weatherburn
+LT</strong></span></th>
+<th style="text-align: center;"><span><strong>Blakers
+LT</strong></span></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;">9.00 – 10:00</td>
+<td style="text-align: center;"><span><em>Sara Davies</em></span></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">10.00 – 10.30</td>
+<td colspan="2" style="text-align: center;">Morning tea</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">10.30 – 11.00</td>
+<td style="text-align: center;">Kaemawichanurat</td>
+<td style="text-align: center;">Popiel</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">11.00 – 11.30</td>
+<td style="text-align: center;">Greenhill</td>
+<td style="text-align: center;">Freedman</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">11.30 – 12.00</td>
+<td style="text-align: center;">Isaev</td>
+<td style="text-align: center;">Lansdown</td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">12.00 – 14.00</td>
+<td colspan="2" style="text-align: center;">Lunch break</td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;">14.30 – 15.30</td>
+<td style="text-align: center;"><span><em>Padraig Ó
+Catháin</em></span></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;">15.30 – 16.00</td>
+<td colspan="2" style="text-align: center;">Afternoon tea</td>
+</tr>
+</tbody>
+</table>
 </details>
 
 
