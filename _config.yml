@@ -127,6 +127,8 @@ navigation_header:
   url: /programme/
 - title: Local information
   url: /localinfo/
+- title: Excursion
+  url: /excursion/
 - title: Student Information
   url: /studentinfo/
 - title: Participants
