@@ -7,6 +7,7 @@ excerpt: "Programme"
 aside: false
 ---
 
-To come
+Here is [the current draft](45ACC_Abstracts_Booklet.pdf) of the schedule and abstracts.
+
 
 
