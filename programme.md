@@ -34,14 +34,14 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 
 ## Monday 
 
-                     **Weatherburn LT**      **Blakers LT**      **Praeger LR**
-  ---------------- ---------------------- --------------------- -----------------
-    8.00 -- 8.45        Registration                            
-    8.45 -- 9.00      Opening address                           
-                    (Prof Mark Reynolds)                        
-   9.00 -- 10:00      *Gabriel Verret*                          
-   10.00 -- 10.30       Morning tea                             
-   10.30 -- 11.00          Chen\*               Bastida\*            Santos
+-----------
+   |  **Weatherburn LT** |     **Blakers LT**  |    **Praeger LR**|
+| :--: | :--- | :---| :--- |
+|   8.00 -- 8.45     |   Registration                            
+|    8.45 -- 9.00     | Opening address (Prof Mark Reynolds)                        
+|   9.00 -- 10:00     | *Gabriel Verret*                          
+|  10.00 -- 10.30     |  Morning tea                             
+|   10.30 -- 11.00    |      Chen\*  |             Bastida\*       |     Santos
    11.00 -- 11.30          Ding\*                Tangjai             Wang\*
    11.30 -- 12.00        Mitrović\*             Farooq\*              Yost
    12.00 -- 12.30        Dacaymat\*              Semple               Umar
