@@ -123,18 +123,20 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Registration
-  url: /registration/
-- title: Accommodation
-  url: /accommodation/
-- title: Abstract submission
-  url: /abstractsubmission/
-- title: Student Information
-  url: /studentinfo/
 - title: Programme
   url: /programme/
-- title: Registered participants
+- title: Local information
+  url: /localinfo/
+- title: Student Information
+  url: /studentinfo/
+- title: Participants
   url: /participants/  
+- title: Registration
+  url: /registration/
+- title: Abstract submission
+  url: /abstractsubmission/
+- title: Accommodation
+  url: /accommodation/
 - title: Search
   url: /search/
 
