@@ -28,12 +28,12 @@ On the Sunday evening (5pm), there will be a Welcome Reception in EZone North, s
 
 **Changes are in bold.**
 
-<h2 class="unnumbered" id="sunday">Sunday (evening)</h2>
+<h3 class="unnumbered" id="sunday">Sunday (evening)</h3>
 
 Registration and Welcome Reception (EZone): 17:00 — 19:00.
 
 
-<h2 class="unnumbered" id="monday">Monday</h2>
+<h3 class="unnumbered" id="monday">Monday</h3>
 <table>
 <thead>
 <tr class="header">
@@ -135,7 +135,7 @@ Winner</em></span></td>
 </tr>
 </tbody>
 </table>
-<h2 class="unnumbered" id="tuesday">Tuesday</h2>
+<h3 class="unnumbered" id="tuesday">Tuesday</h3>
 <table>
 <thead>
 <tr class="header">
@@ -217,7 +217,7 @@ LT</strong></span></th>
 </tr>
 </tbody>
 </table>
-<h2 class="unnumbered" id="wednesday">Wednesday</h2>
+<h3 class="unnumbered" id="wednesday">Wednesday</h3>
 <table>
 <thead>
 <tr class="header">
@@ -275,7 +275,7 @@ LT</strong></span></th>
 </tr>
 </tbody>
 </table>
-<h2 class="unnumbered" id="thursday">Thursday</h2>
+<h3 class="unnumbered" id="thursday">Thursday</h3>
 <table>
 <thead>
 <tr class="header">
@@ -361,7 +361,7 @@ Voorde</em></span></td>
 
 <p>18.30: Conference dinner (UniClub)<br />
 </p>
-<h2 class="unnumbered" id="friday">Friday</h2>
+<h3 class="unnumbered" id="friday">Friday</h3>
 <table>
 <thead>
 <tr class="header">
@@ -415,9 +415,11 @@ Catháin</em></span></td>
 </table>
 </details>
 
+<details>
+<summary>Excursion (click to expand)</summary>
 
+to come ...
 
-## Excursion
-
+</details>
 
 
