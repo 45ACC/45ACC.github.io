@@ -37,7 +37,6 @@ Things to do in Fremantle after escaping the prison:
 
 ## shopping
 
-> [!TIP]
 >  Wandering down any of Market Street, South Terrace or High Street, you will find plenty of  Fremantle original stores worth a perusal. Some suggestions...
 
 * [Elizabeth's Secondhand bookshop](https://www.elizabethsbookshop.com.au). Used book store with plenty of options to rifle though.
@@ -79,8 +78,7 @@ Things to do in Fremantle after escaping the prison:
 
 ## eating
 
-> [!TIP]
-> most of the beer places/wine bars offer food, but those below are restaurants first and foremost.
+> Most of the beer places/wine bars offer food, but those below are restaurants first and foremost.
 
 * Emily Taylor. Asian.
 * Suku (in Fomo). Great authentic Indonesian food.
