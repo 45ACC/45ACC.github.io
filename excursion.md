@@ -12,10 +12,9 @@ aside: false
 The coach leaves UWA Tennis Courts at 13:30 (near Hackett Drive) (add map). It will take us directly to the prison, so please get lunch first.
 
 The convict tour promises the following:
+
 > Discover the history of Fremantle Prison from its construction in the 1850s until the end of the convict era in 1886.
->
 > Find out why almost 10,000 men were transported from Great Britain and Ireland, how they built their own prison and helped shape the future of Western Australia.
-> 
 > Discover our history through their stories.
 
 
@@ -38,7 +37,8 @@ Things to do in Fremantle after escaping the prison:
 
 ## shopping
 
-> Wandering down any of Market Street, South Terrace or High Street, you will find plenty of  Fremantle original stores worth a perusal. Some suggestions...
+> [!TIP]
+>  Wandering down any of Market Street, South Terrace or High Street, you will find plenty of  Fremantle original stores worth a perusal. Some suggestions...
 
 * [Elizabeth's Secondhand bookshop](https://www.elizabethsbookshop.com.au). Used book store with plenty of options to rifle though.
 * [Bill Campell's Books](http://bill-campbell-books.edan.io/) For whatever you can't find at Elizabeth's.
@@ -79,6 +79,7 @@ Things to do in Fremantle after escaping the prison:
 
 ## eating
 
+> [!TIP]
 > most of the beer places/wine bars offer food, but those below are restaurants first and foremost.
 
 * Emily Taylor. Asian.
@@ -94,4 +95,4 @@ Things to do in Fremantle after escaping the prison:
 
 
 
-For return journey - the train goes from Fremantle to the CBD, or, the 998 bus takes you to UWA along Stirling Highway, stopping opposite the campus. (Bus drivers will accept cash for ticket, try to have exact fare.)
+For the return journey - the train goes from Fremantle to the CBD, or, the 998 bus takes you to UWA along Stirling Highway, stopping opposite the campus. (Bus drivers will accept cash for ticket, try to have exact fare.)
