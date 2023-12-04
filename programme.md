@@ -28,7 +28,8 @@ On the Sunday evening (5pm), there will be a Welcome Reception in EZone North, s
 
 **Changes are in bold.**
 
-### Sunday (evening), 10th December
+<h2 class="unnumbered" id="sunday">Sunday (evening)</h2>
+
 Registration and Welcome Reception (EZone): 17:00 — 19:00.
 
 
@@ -265,7 +266,7 @@ LT</strong></span></th>
 <td style="text-align: center;">Li*</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;">12.30 – 14.00</td>
+<td style="text-align: center;">12.30 – 13.30</td>
 <td colspan="3" style="text-align: center;">Lunch break</td>
 </tr>
 <tr class="even">
@@ -357,6 +358,7 @@ Voorde</em></span></td>
 </tr>
 </tbody>
 </table>
+
 <p>18.30: Conference dinner (UniClub)<br />
 </p>
 <h2 class="unnumbered" id="friday">Friday</h2>
