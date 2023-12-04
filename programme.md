@@ -24,14 +24,12 @@ On the Sunday evening (5pm), there will be a Welcome Reception in EZone North, s
 - The main room for the plenary talks will be Weatherburn Lecture Theatre, and the contributed talks will be in the Weatherburn LT, Cheryl Praeger LR, and Blakers LT (all close to one another).
 
 <details>
-<summary>Timetable (click to expand)</summary>
-
-**Changes are in bold.**
-
+<summary>
+  <b>Timetable (click to expand)</b>
+</summary>
 <h3 class="unnumbered" id="sunday">Sunday (evening)</h3>
 
 Registration and Welcome Reception (EZone): 17:00 — 19:00.
-
 
 <h3 class="unnumbered" id="monday">Monday</h3>
 <table>
@@ -416,7 +414,8 @@ Catháin</em></span></td>
 </details>
 
 <details>
-<summary>Excursion (click to expand)</summary>
+<summary><b>Excursion (click to expand)</b>
+</summary>
 
 to come ...
 
