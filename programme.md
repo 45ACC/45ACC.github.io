@@ -413,12 +413,6 @@ Catháin</em></span></td>
 </table>
 </details>
 
-<details>
-<summary><b>Excursion (click to expand)</b>
-</summary>
 
-to come ...
-
-</details>
 
 
