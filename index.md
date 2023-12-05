@@ -17,7 +17,7 @@ The 45th ACC will be hosted by [The University of Western Australia](https://www
 
 - [Sara Davies](https://smp.uq.edu.au/profile/270/sara-davies) (The University of Queensland)
   > The Hamilton decomposition problem
-- [Gary Greaves](https://personal.ntu.edu.sg/gary/) (Nanyang Technical University)
+- [Gary Greaves](https://personal.ntu.edu.sg/gary/) (Nanyang Technological University)
   > How to design a graph with three eigenvalues
 - [Krystal Guo](https://krystalguo.com/) (University of Amsterdam)
   > Algebraic graph theory and quantum walks
