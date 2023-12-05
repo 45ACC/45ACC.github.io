@@ -26,7 +26,6 @@ Below is a list of participants that have agreed to have their name posted here.
 15. Alice Devillers, UWA
 16. Ajani De Vas Gunasekara, Monash University
 17. Zaochen Ding, The University of Auckland
-18. Marc Distel, Monash University
 19. Alena Ernst, Paderborn University
 20. Saul Freedman, UWA
 21. Dani Gentle, Monash University
@@ -45,7 +44,6 @@ Below is a list of participants that have agreed to have their name posted here.
 34. Mikhail Isaev, Monash University
 35. Pawaton Kaemawichanurat, King Mongkut's University of Technology Thonburi
 36. Nina Kamčev, University of Zagreb
-37. Shinya Kawabuchi, Kumamoto University
 38. Lukas Klawuhn, Paderborn University
 39. André Kündgen, California State University San Marcos
 40. Alice Lacaze-Masmonteil, University of Ottawa
@@ -88,6 +86,8 @@ Below is a list of participants that have agreed to have their name posted here.
 77. Zhishuo Zhang, The University of Melbourne
 78. Chuanqi Zhang, University of Technology Sydney
 
+<!--- Shinya Kawabuchi, Kumamoto University --->
+<!--- Marc Distel, Monash University --->
 
 
 
