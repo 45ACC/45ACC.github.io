@@ -38,7 +38,7 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 | 8.00 -- 8.45   | Registration         |            |     |
 | 8.45 -- 9.00   | Opening address      |     |                 |
 | 9.00 -- 10:00  | *Gabriel Verret*     |                     |                 |
-| 10.00 -- 10.30   <td colspan=3>Morning tea</td>        
+| 10.00 -- 10.30   <td colspan="3">Morning tea</td>        
 | 10.30 -- 11.00 | Chen\*               | Bastida\*           | Satake          |
 | 11.00 -- 11.30 | Ding\*               | Tangjai             | Wang\*          |
 | 11.30 -- 12.00 | Mitrović\*           | Lehner              | Yost            |
@@ -155,6 +155,23 @@ Winner</em></span></td>
 --->
 
 <h3 class="unnumbered" id="tuesday">Tuesday</h3>
+
+|                | **Weatherburn LT** | **Blakers LT** |
+|:---:|:---:|:---:|
+| 9.00 -- 10:00  | *Krystal Guo*      |                |
+| 10.00 -- 10.30 | Morning tea        |                |
+| 10.30 -- 11.00 | Hickingbotham\*    | Briones        |
+| 11.00 -- 11.30 | Distel\*           | Mammoliti      |
+| 11.30 -- 12.00 | Brettell           | Ernst\*        |
+| 12:00 -- 12:30 | Wood               | Klawuhn\*      |
+| 12.30 -- 14.30 | Lunch break        |                |
+| 14.30 -- 15.30 | *Gary Greaves*     |                |
+| 15.30 -- 16.00 | Afternoon tea      |                |
+| 16.00 -- 16.30 | Allsop\*           | Imamura        |
+| 16.30 -- 17.00 | Baghestani\*       | Kawabuchi      |
+| 17.00 -- 17.30 | CMSA AGM           |                |
+
+<!---
 <table>
 <thead>
 <tr class="header">
@@ -236,6 +253,8 @@ LT</strong></span></th>
 </tr>
 </tbody>
 </table>
+--->
+
 <h3 class="unnumbered" id="wednesday">Wednesday</h3>
 <table>
 <thead>
