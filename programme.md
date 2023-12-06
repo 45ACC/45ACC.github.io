@@ -78,7 +78,7 @@ Verret</em></span></td>
 <td style="text-align: center;">10.30 – 11.00</td>
 <td style="text-align: center;">Chen*</td>
 <td style="text-align: center;">Bastida*</td>
-<td style="text-align: center;">Santos</td>
+<td style="text-align: center;">Satake</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">11.00 – 11.30</td>
@@ -89,7 +89,7 @@ Verret</em></span></td>
 <tr class="even">
 <td style="text-align: center;">11.30 – 12.00</td>
 <td style="text-align: center;">Mitrović*</td>
-<td style="text-align: center;">Farooq*</td>
+<td style="text-align: center;">Lehner</td>
 <td style="text-align: center;">Yost</td>
 </tr>
 <tr class="odd">
@@ -242,26 +242,23 @@ LT</strong></span></th>
 <tr class="odd">
 <td style="text-align: center;">10.30 – 11.00</td>
 <td style="text-align: center;">Gentle*</td>
-<td style="text-align: center;">Lehner</td>
+<td style="text-align: center;">Maruta</td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">11.00 – 11.30</td>
 <td style="text-align: center;">Syrotiuk</td>
-<td style="text-align: center;">Hafidh*</td>
-<td style="text-align: center;">Gunasekara</td>
+<td style="text-align: center;">Yasufuku</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">11.30 – 12.00</td>
 <td style="text-align: center;">Hirao</td>
-<td style="text-align: center;">Maruta</td>
-<td style="text-align: center;">Smith*</td>
+<td style="text-align: center;">Hafidh*</td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">12.00 – 12:30</td>
 <td style="text-align: center;">Hawtin</td>
-<td style="text-align: center;">Yasufuku</td>
-<td style="text-align: center;">Li*</td>
+<td style="text-align: center;">C. Zhang*</td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;">12.30 – 13.30</td>
@@ -300,7 +297,7 @@ LR</strong></span></th>
 <tr class="odd">
 <td style="text-align: center;">10.30 – 11.00</td>
 <td style="text-align: center;">Arumugam*</td>
-<td style="text-align: center;">Satake</td>
+<td style="text-align: center;">Gunasekara</td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
@@ -312,13 +309,13 @@ LR</strong></span></th>
 <tr class="odd">
 <td style="text-align: center;">11.30 – 12.00</td>
 <td style="text-align: center;">Lia</td>
-<td style="text-align: center;">Nenadov</td>
+<td style="text-align: center;">Smith*</td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;">12.00 – 12.30</td>
 <td style="text-align: center;">De Beule</td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;">Li*</td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
