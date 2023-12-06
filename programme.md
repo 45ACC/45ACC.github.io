@@ -41,14 +41,14 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 | 8.00 -- 8.45   | Registration         |            |     |
 | 8.45 -- 9.00   | Opening address      |     |                 |
 | 9.00 -- 10:00  | *Gabriel Verret*     |                     |                 |
-| 10.00 -- 10.30  | Morning tea (MILC) | | |
+| 10.00 -- 10.30  | :coffee: `Morning tea (MILC)` :coffee: | | |
 | 10.30 -- 11.00 | Chen\*               | Bastida\*           | Satake          |
 | 11.00 -- 11.30 | Ding\*               | Tangjai             | Wang\*          |
 | 11.30 -- 12.00 | Mitrović\*           | Lehner              | Yost            |
 | 12.00 -- 12.30 | Dacaymat\*           | Semple              | Umar            |
-| 12.30 -- 14.30 | Lunch break                                       
+| 12.30 -- 14.30 | `Lunch break` :sandwich:                                      
 | 14.30 -- 15.30 | *CMSA Prize Winner*  |                     |                 |
-| 15.30 -- 16.00 | Afternoon tea        |                     |                 |
+| 15.30 -- 16.00 | :coffee: `Afternoon tea (MILC)` :coffee:     |                     |                 |
 | 16.00 -- 16.30 | Basit                | Bunjamin\*          |                 |
 | 16.30 -- 17.00 | Liebenau             | Mitchell\*          |                 |
 | 17.00 -- 17.30 | Hasunuma             | Lacaze-Masmonteil\* |                 |
@@ -59,14 +59,14 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 |                | **Weatherburn LT** | **Blakers LT** |
 |:---:|:---:|:---:|
 | 9.00 -- 10:00  | *Krystal Guo*      |                |
-| 10.00 -- 10.30 | Morning tea        |                |
+| 10.00 -- 10.30 | :coffee: `Morning tea (MILC)` :coffee:        |                |
 | 10.30 -- 11.00 | Hickingbotham\*    | Briones        |
 | 11.00 -- 11.30 | Distel\*           | Mammoliti      |
 | 11.30 -- 12.00 | Brettell           | Ernst\*        |
 | 12:00 -- 12:30 | Wood               | Klawuhn\*      |
-| 12.30 -- 14.30 | Lunch break        |                |
+| 12.30 -- 14.30 | `Lunch break` :sandwich:       |                |
 | 14.30 -- 15.30 | *Gary Greaves*     |                |
-| 15.30 -- 16.00 | Afternoon tea      |                |
+| 15.30 -- 16.00 | :coffee: `Afternoon tea (MILC)` :coffee:       |                |
 | 16.00 -- 16.30 | Allsop\*           | Imamura        |
 | 16.30 -- 17.00 | Baghestani\*       | Kawabuchi      |
 | 17.00 -- 17.30 | CMSA AGM           |                |
@@ -77,13 +77,13 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 |                | **Weatherburn LT** | **Blakers LT** |
 |:---:|:---:|:---:|
 | 9.00 -- 10:00  | *André Kündgen*    |                |
-| 10.00 -- 10.30 | Morning tea (MILC)        |                |
+| 10.00 -- 10.30 | :coffee: `Morning tea (MILC)` :coffee:       |                |
 | 10.30 -- 11.00 | Gentle\*           | Maruta         |
 | 11.00 -- 11.30 | Syrotiuk           | Yasufuku       |
 | 11.30 -- 12.00 | Hirao              | Hafidh\*       |
 | 12.00 -- 12:30 | Hawtin             | Zhang\*        |
-| 12.30 -- 13.30 | Lunch break        |                |
-| 14.00 -- 17.00 | *Excursion*        |                |
+| 12.30 -- 13.30 | `Lunch break` :sandwich:       |                |
+| 14.00 -- 17.00 | *Excursion*  :bus:    |                |
 
 
 <h3 class="unnumbered" id="thursday">Thursday</h3>
@@ -91,14 +91,14 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 |                | **Weatherburn LT**       | **Blakers LT** |
 |:---:|:---:|:---:|
 | 9.00 -- 10:00  | *Tibor Szabó*            |                |
-| 10.00 -- 10.30 | Morning tea              |                |
+| 10.00 -- 10.30 | :coffee: `Morning tea (MILC)` :coffee:             |                |
 | 10.30 -- 11.00 | Arumugam\*               | Gunasekara     |
 | 11.00 -- 11.30 | Miura                    | Zhang\*        |
 | 11.30 -- 12.00 | Lia                      | Smith\*        |
 | 12.00 -- 12.30 | De Beule                 | Li\*           |
-| 12.30 -- 14.30 | Lunch break              |                |
+| 12.30 -- 14.30 | `Lunch break` :sandwich:            |                |
 | 14.30 -- 15.30 | *Geertrui Van de Voorde* |                |
-| 15.30 -- 16.00 | Afternoon tea            |                |
+| 15.30 -- 16.00 | :coffee: `Afternoon tea (MILC)` :coffee:             |                |
 | 16.00 -- 16.30 | McKay                    |                |
 | 16.30 -- 17.00 | Colbourn                 |                |
 | 17.00 -- 17.30 | Wanless                  |                |
@@ -111,13 +111,13 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 |        | **Weatherburn LT**  | **Blakers LT** |
 |:---:|:---:|:---:|
 | 9.00 -- 10:00  | *Sara Davies*       |                |
-| 10.00 -- 10.30 | Morning tea         |                |
+| 10.00 -- 10.30 | :coffee: `Morning tea (MILC)` :coffee:        |                |
 | 10.30 -- 11.00 | Kaemawichanurat     | Popiel         |
 | 11.00 -- 11.30 | Greenhill           | Freedman       |
 | 11.30 -- 12.00 | Isaev               | Lansdown       |
-| 12.00 -- 14.00 | Lunch break         |                |
+| 12.00 -- 14.00 | `Lunch break` :sandwich:        |                |
 | 14.30 -- 15.30 | *Padraig Ó Catháin* |                |
-| 15.30 -- 16.00 | Afternoon tea       |                |
+| 15.30 -- 16.00 | :coffee: `Afternoon tea (MILC)` :coffee:       |                |
 
 </details>
 
