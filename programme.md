@@ -46,7 +46,7 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 | 11.00 -- 11.30 | Ding\*               | Tangjai             | Wang\*          |
 | 11.30 -- 12.00 | Mitrović\*           | Lehner              | Yost            |
 | 12.00 -- 12.30 | Dacaymat\*           | Semple              | Umar            |
-| 12.30 -- 14.30 | `Lunch break` :sandwich:                                      
+| 12.30 -- 14.30 | `Lunch break`                                       
 | 14.30 -- 15.30 | *CMSA Prize Winner*  |                     |                 |
 | 15.30 -- 16.00 | :coffee: `Afternoon tea (MILC)` :coffee:     |                     |                 |
 | 16.00 -- 16.30 | Basit                | Bunjamin\*          |                 |
@@ -64,7 +64,7 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 | 11.00 -- 11.30 | Distel\*           | Mammoliti      |
 | 11.30 -- 12.00 | Brettell           | Ernst\*        |
 | 12:00 -- 12:30 | Wood               | Klawuhn\*      |
-| 12.30 -- 14.30 | `Lunch break` :sandwich:       |                |
+| 12.30 -- 14.30 | `Lunch break`        |                |
 | 14.30 -- 15.30 | *Gary Greaves*     |                |
 | 15.30 -- 16.00 | :coffee: `Afternoon tea (MILC)` :coffee:       |                |
 | 16.00 -- 16.30 | Allsop\*           | Imamura        |
@@ -82,7 +82,7 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 | 11.00 -- 11.30 | Syrotiuk           | Yasufuku       |
 | 11.30 -- 12.00 | Hirao              | Hafidh\*       |
 | 12.00 -- 12:30 | Hawtin             | Zhang\*        |
-| 12.30 -- 13.30 | `Lunch break` :sandwich:       |                |
+| 12.30 -- 13.30 | `Lunch break`        |                |
 | 14.00 -- 17.00 | *Excursion*  :bus:    |                |
 
 
@@ -96,7 +96,7 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 | 11.00 -- 11.30 | Miura                    | Zhang\*        |
 | 11.30 -- 12.00 | Lia                      | Smith\*        |
 | 12.00 -- 12.30 | De Beule                 | Li\*           |
-| 12.30 -- 14.30 | `Lunch break` :sandwich:            |                |
+| 12.30 -- 14.30 | `Lunch break`             |                |
 | 14.30 -- 15.30 | *Geertrui Van de Voorde* |                |
 | 15.30 -- 16.00 | :coffee: `Afternoon tea (MILC)` :coffee:             |                |
 | 16.00 -- 16.30 | McKay                    |                |
@@ -115,7 +115,7 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 | 10.30 -- 11.00 | Kaemawichanurat     | Popiel         |
 | 11.00 -- 11.30 | Greenhill           | Freedman       |
 | 11.30 -- 12.00 | Isaev               | Lansdown       |
-| 12.00 -- 14.00 | `Lunch break` :sandwich:        |                |
+| 12.00 -- 14.00 | `Lunch break`        |                |
 | 14.30 -- 15.30 | *Padraig Ó Catháin* |                |
 | 15.30 -- 16.00 | :coffee: `Afternoon tea (MILC)` :coffee:       |                |
 
