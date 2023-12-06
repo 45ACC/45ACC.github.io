@@ -13,6 +13,21 @@ Registered participants are welcome to present a contributed talk at the confere
 
 Click on [this form](https://forms.gle/wvWwd2BrCQT9saPNA) and follow the prompts.
 
+
+## test section (ignore)
+
+<details><summary>
+  ignore this
+</summary>
+  
+  |    | Weatherburn | Blakers |
+  | :---: | :---: | :---: |
+  |  9 | Gabriel Verret | |
+  | 10 | Morning Tea |
+  | 10.30 | Chen* | Bastida* | Satake|
+  
+</details>
+
 ## Deadline
 
 Abstracts should be submitted by 27 November 2023.
