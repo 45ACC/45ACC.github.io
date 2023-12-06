@@ -13,6 +13,11 @@ Registered participants are welcome to present a contributed talk at the confere
 
 Click on [this form](https://forms.gle/wvWwd2BrCQT9saPNA) and follow the prompts.
 
+## Deadline
+
+Abstracts should be submitted by 27 November 2023.
+
+
 
 ## test section (ignore)
 
@@ -28,6 +33,3 @@ Click on [this form](https://forms.gle/wvWwd2BrCQT9saPNA) and follow the prompts
   
 </details>
 
-## Deadline
-
-Abstracts should be submitted by 27 November 2023.
