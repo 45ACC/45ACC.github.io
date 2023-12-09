@@ -40,7 +40,7 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 |:---:|:---:|:---:|:---:|
 | 8.00 -- 8.45   | Registration         |            |     |
 | 8.45 -- 9.00   | Opening address      |     |                 |
-| 9.00 -- 10:00  | *Gabriel Verret*     |                     |                 |
+| 9.00 -- 10:00  | <dfn title="Local actions and eigenspaces of vertex-transitive graphs">Gabriel Verret</dfn>     |                     |                 |
 | 10.00 -- 10.30  | :coffee: `Morning tea (MILC)` :coffee: | | |
 | 10.30 -- 11.00 | Chen\*               | Bastida\*           | Satake          |
 | 11.00 -- 11.30 | Ding\*               | Tangjai             | Wang\*          |
