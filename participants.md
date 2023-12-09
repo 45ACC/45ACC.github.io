@@ -35,8 +35,7 @@ Below is a list of participants that have agreed to have their name posted here.
 25. Catherine Greenhill, UNSW
 26. Krystal Guo, University of Amsterdam
 27. Yusuf Hafidh, University of Melbourne
-28. Hao Chuien Hang, The University of Queensland
-29. Toru Hasunuma, Tokushima University
+28. Toru Hasunuma, Tokushima University
 30. Daniel Hawtin, University of Rijeka
 31. Robert Hickingbotham, Monash University
 32. Masatake Hirao, Aichi Prefectural University
