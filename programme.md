@@ -78,7 +78,7 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 |:---:|:---:|:---:|
 | 9.00 -- 10:00  | *André Kündgen*    |                |
 | 10.00 -- 10.30 | :coffee: `Morning tea (MILC)` :coffee:       |                |
-| 10.30 -- 11.00 | Gentle\*           | Maruta         |
+| 10.30 -- 11.00 | Arumugam\*           | Maruta         |
 | 11.00 -- 11.30 | Syrotiuk           | Yasufuku       |
 | 11.30 -- 12.00 | Hirao              | Hafidh\*       |
 | 12.00 -- 12:30 | Hawtin             | Zhang\*        |
@@ -92,7 +92,7 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 |:---:|:---:|:---:|
 | 9.00 -- 10:00  | *Tibor Szabó*            |                |
 | 10.00 -- 10.30 | :coffee: `Morning tea (MILC)` :coffee:             |                |
-| 10.30 -- 11.00 | Arumugam\*               | Gunasekara     |
+| 10.30 -- 11.00 | Gentle\*               | Gunasekara     |
 | 11.00 -- 11.30 | Miura                    | Zhang\*        |
 | 11.30 -- 12.00 | Lia                      | Smith\*        |
 | 12.00 -- 12.30 | De Beule                 | Li\*           |
