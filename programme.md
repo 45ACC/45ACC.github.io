@@ -44,7 +44,7 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 | 10.00 -- 10.30  | :coffee: `Morning tea (MILC)` :coffee: | | |
 | 10.30 -- 11.00 | Chen\*               | Bastida\*           | Satake          |
 | 11.00 -- 11.30 | Ding\*               | Tangjai             | Wang\*          |
-| 11.30 -- 12.00 | Mitrović\*           | Lehner              | Yost            |
+| 11.30 -- 12.00 | Zhang*           | Lehner              | Yost            |
 | 12.00 -- 12.30 | Dacaymat\*           | Semple              | Umar            |
 | 12.30 -- 14.30 | `Lunch break`                                       
 | 14.30 -- 15.30 | *CMSA Prize Winner*  |                     |                 |
@@ -93,7 +93,7 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 | 9.00 -- 10:00  | <dfn title="New Ramsey multiplicity bounds and search heuristics"><em>Tibor Szabó</em></dfn>           |                |
 | 10.00 -- 10.30 | :coffee: `Morning tea (MILC)` :coffee:             |                |
 | 10.30 -- 11.00 | Gentle\*               | Gunasekara     |
-| 11.00 -- 11.30 | Miura                    | Zhang\*        |
+| 11.00 -- 11.30 | Miura                    | Mitrović\*        |
 | 11.30 -- 12.00 | Lia                      | Smith\*        |
 | 12.00 -- 12.30 | De Beule                 | Li\*           |
 | 12.30 -- 14.30 | `Lunch break`             |                |
