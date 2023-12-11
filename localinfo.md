@@ -56,3 +56,8 @@ A few local eateries and café’s are closed for the summer, so here is a list 
 ## South Broadway. ~ 25 minute walk. Possible for beers at the end of the day.
 * Steve's, $$$.
 * Little Way, $$.
+
+## Near Forrest Hall, St George's College, Wonil Hotel
+
+* There is a bar called ["West Kitchen and Bar"](https://www.westkitchenandbar.com) within Wonil Hotel
+
