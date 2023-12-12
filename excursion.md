@@ -30,8 +30,8 @@ Things to do in Fremantle after escaping the prison:
 * [WA Shipwrecks Museum](https://visit.museum.wa.gov.au/shipwrecks) - donation for entry. Features stunning recovered hull of VOC Batavia.
 * [WA Maritime Museum](https://visit.museum.wa.gov.au/maritime). Visually impressive building, is it a snail or a sail? Features HMAS Ovens submarine on display.
 * [The Ferris Wheel](https://touristwheelfremantle.com.au/prices) - relaxing views over the city, 12$ ticket.
-
-
+* Bathers Beach. An inner city beach in Fremantle, if you want to take a swim before dinner.
+* [Fremantle Fallen Sailors and Soldiers War Memorial](https://vwma.org.au/explore/memorials/2815). Large memorial overlooking the city of Fremantle, with views over the ocean. The park is a calm place to relax for some time.
 
 
 
