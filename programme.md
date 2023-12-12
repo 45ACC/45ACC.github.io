@@ -42,7 +42,7 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 | 8.45 -- 9.00   | Opening address      |     |                 |
 | 9.00 -- 10:00  | <dfn title="Local actions and eigenspaces of vertex-transitive graphs"><em>Gabriel Verret</em></dfn>     |                     |                 |
 | 10.00 -- 10.30  | :coffee: `Morning tea (MILC)` :coffee: | | |
-| 10.30 -- 11.00 | Chen\*               | Bastida\*           | Satake          |
+| 10.30 -- 11.00 | Chen\*               | Bastida\*           | ~~Satake~~          |
 | 11.00 -- 11.30 | Ding\*               | Tangjai             | Wang\*          |
 | 11.30 -- 12.00 | Zhang*           | Lehner              | Yost            |
 | 12.00 -- 12.30 | Dacaymat\*           | Semple              | Umar            |
@@ -115,7 +115,8 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 | 10.30 -- 11.00 | Kaemawichanurat     | Popiel         |
 | 11.00 -- 11.30 | Greenhill           | Freedman       |
 | 11.30 -- 12.00 | Isaev               | Lansdown       |
-| 12.00 -- 14.00 | `Lunch break`        |                |
+| 12.00 -- 12.30 | Satake | |
+| 12.00 -- 14.30 | `Lunch break`        |                |
 | 14.30 -- 15.30 | <dfn title="Quadratic forms in design theory"><em>Padraig Ó Catháin</em></dfn> |                |
 | 15.30 -- 16.00 | :coffee: `Afternoon tea (MILC)` :coffee:       |                |
 
