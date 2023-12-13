@@ -7,6 +7,9 @@ excerpt: "participants"
 aside: false
 ---
 
+![Conference photo](IMG_5731.jpg)
+
+
 Below is a list of participants that have agreed to have their name posted here. There are 2 participants not in this list.
 
 1. Jack Allsop, Monash University
