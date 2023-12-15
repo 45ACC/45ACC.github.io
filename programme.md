@@ -40,14 +40,14 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 |:---:|:---:|:---:|:---:|
 | 8.00 -- 8.45   | Registration         |            |     |
 | 8.45 -- 9.00   | Opening address      |     |                 |
-| 9.00 -- 10:00  | <dfn title="Local actions and eigenspaces of vertex-transitive graphs"><em>Gabriel Verret</em></dfn>     |                     |                 |
+| 9.00 -- 10:00  | [Gabriel Verret](slides/Verret.pdf)     |                     |                 |
 | 10.00 -- 10.30  | :coffee: `Morning tea (MILC)` :coffee: | | |
-| 10.30 -- 11.00 | Chen\*               | Bastida\*           | ~~Satake~~          |
+| 10.30 -- 11.00 | [Chen\*](slides/Chen.pdf)               | Bastida\*           |           |
 | 11.00 -- 11.30 | Ding\*               | Tangjai             | Wang\*          |
 | 11.30 -- 12.00 | Zhang*           | Lehner              | Yost            |
 | 12.00 -- 12.30 | Dacaymat\*           | Semple              | Umar            |
 | 12.30 -- 14.30 | `Lunch break`                                       
-| 14.30 -- 15.30 | *CMSA Prize Winner*  |                     |                 |
+| 14.30 -- 15.30 | [Nina Kamčev (CMSA Prize Winner)](slides/Kamcev.pptx)  |                     |                 |
 | 15.30 -- 16.00 | :coffee: `Afternoon tea (MILC)` :coffee:     |                     |                 |
 | 16.00 -- 16.30 | Basit                | Bunjamin\*          |                 |
 | 16.30 -- 17.00 | Liebenau             | Mitchell\*          |                 |
@@ -58,14 +58,14 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 
 |                | **Weatherburn LT** | **Blakers LT** |
 |:---:|:---:|:---:|
-| 9.00 -- 10:00  | <dfn title="Algebraic graph theory and quantum walks"><em>Krystal Guo</em></dfn>      |                |
+| 9.00 -- 10:00  | [Krystal Guo](slides/Guo.pdf)      |                |
 | 10.00 -- 10.30 | :coffee: `Morning tea (MILC)` :coffee:        |                |
 | 10.30 -- 11.00 | Hickingbotham\*    | Briones        |
 | 11.00 -- 11.30 | Distel\*           | Mammoliti      |
 | 11.30 -- 12.00 | Brettell           | Ernst\*        |
 | 12:00 -- 12:30 | Wood               | Klawuhn\*      |
 | 12.30 -- 14.30 | `Lunch break`        |                |
-| 14.30 -- 15.30 | <dfn title="How to design a graph with three eigenvalues"><em>Gary Greaves</em></dfn>     |                |
+| 14.30 -- 15.30 | [Gary Greaves](slides/Greaves.pdf)     |                |
 | 15.30 -- 16.00 | :coffee: `Afternoon tea (MILC)` :coffee:       |                |
 | 16.00 -- 16.30 | Allsop\*           | Imamura        |
 | 16.30 -- 17.00 | Baghestani\*       | Kawabuchi      |
@@ -76,9 +76,9 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 
 |                | **Weatherburn LT** | **Blakers LT** |
 |:---:|:---:|:---:|
-| 9.00 -- 10:00  | <dfn title="The Saturation Spectrum of odd cycles"><em>André Kündgen</em></dfn>   |                |
+| 9.00 -- 10:00  | [André Kündgen](slides/Kundgen.pdf)   |                |
 | 10.00 -- 10.30 | :coffee: `Morning tea (MILC)` :coffee:       |                |
-| 10.30 -- 11.00 | Arumugam\*           | Maruta         |
+| 10.30 -- 11.00 | [Arumugam\*](slides/Arumugam.pdf)           | Maruta         |
 | 11.00 -- 11.30 | Syrotiuk           | Yasufuku       |
 | 11.30 -- 12.00 | Hirao              | Hafidh\*       |
 | 12.00 -- 12:30 | Hawtin             | Zhang\*        |
@@ -90,14 +90,14 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 
 |                | **Weatherburn LT**       | **Blakers LT** |
 |:---:|:---:|:---:|
-| 9.00 -- 10:00  | <dfn title="New Ramsey multiplicity bounds and search heuristics"><em>Tibor Szabó</em></dfn>           |                |
+| 9.00 -- 10:00  | [Tibor Szabó](slides/Szabo.pdf)          |                |
 | 10.00 -- 10.30 | :coffee: `Morning tea (MILC)` :coffee:             |                |
 | 10.30 -- 11.00 | Gentle\*               | Gunasekara     |
 | 11.00 -- 11.30 | Miura                    | Mitrović\*        |
 | 11.30 -- 12.00 | Lia                      | Smith\*        |
-| 12.00 -- 12.30 | De Beule                 | Li\*           |
+| 12.00 -- 12.30 | [De Beule](slides/DeBeule.pdf)               | Li\*           |
 | 12.30 -- 14.30 | `Lunch break`             |                |
-| 14.30 -- 15.30 | <dfn title="'Segre-type' theorems: combinatorial characterisations for algebraic objects"><em>Geertrui Van de Voorde</em></dfn> |                |
+| 14.30 -- 15.30 | [Geertrui Van de Voorde](slides/VandeVoorde.pdf) |                |
 | 15.30 -- 16.00 | :coffee: `Afternoon tea (MILC)` :coffee:             |                |
 | 16.00 -- 16.30 | McKay                    |                |
 | 16.30 -- 17.00 | Colbourn                 |                |
@@ -110,14 +110,14 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 
 |        | **Weatherburn LT**  | **Blakers LT** |
 |:---:|:---:|:---:|
-| 9.00 -- 10:00  | <dfn title="The Hamilton decomposition problem"><em>Sara Davies</em></dfn>       |                |
+| 9.00 -- 10:00  | [Sara Davies](slides/Davies.pptx)       |                |
 | 10.00 -- 10.30 | :coffee: `Morning tea (MILC)` :coffee:        |                |
 | 10.30 -- 11.00 | Kaemawichanurat     | Popiel         |
-| 11.00 -- 11.30 | Greenhill           | Freedman       |
-| 11.30 -- 12.00 | Isaev               | Lansdown       |
+| 11.00 -- 11.30 | Greenhill           | [Freedman](slides/Freedman.pdf)       |
+| 11.30 -- 12.00 | Isaev               | [Lansdown](slides/Lansdown.pdf)       |
 | 12.00 -- 12.30 | Satake | |
 | 12.00 -- 14.30 | `Lunch break`        |                |
-| 14.30 -- 15.30 | <dfn title="Quadratic forms in design theory"><em>Padraig Ó Catháin</em></dfn> |                |
+| 14.30 -- 15.30 | [Padraig Ó Catháin](slides/OCathain.pdf) |                |
 | 15.30 -- 16.00 | :coffee: `Afternoon tea (MILC)` :coffee:       |                |
 
 </details>
