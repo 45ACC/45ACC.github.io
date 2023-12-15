@@ -97,7 +97,7 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 | 11.30 -- 12.00 | Lia                      | Smith\*        |
 | 12.00 -- 12.30 | [De Beule](slides/DeBeule.pdf)               | Li\*           |
 | 12.30 -- 14.30 | `Lunch break`             |                |
-| 14.30 -- 15.30 | [Geertrui Van de Voorde](slides/VandeVoorde.pdf) |                |
+| 14.30 -- 15.30 | Geertrui Van de Voorde |                |
 | 15.30 -- 16.00 | :coffee: `Afternoon tea (MILC)` :coffee:             |                |
 | 16.00 -- 16.30 | McKay                    |                |
 | 16.30 -- 17.00 | Colbourn                 |                |
