@@ -90,7 +90,7 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 
 |                | **Weatherburn LT**       | **Blakers LT** |
 |:---:|:---:|:---:|
-| 9.00 -- 10:00  | [Tibor Szabó](slides/Szabo.pdf)          |                |
+| 9.00 -- 10:00  | Tibor Szabó          |                |
 | 10.00 -- 10.30 | :coffee: `Morning tea (MILC)` :coffee:             |                |
 | 10.30 -- 11.00 | Gentle\*               | Gunasekara     |
 | 11.00 -- 11.30 | Miura                    | Mitrović\*        |
