@@ -42,16 +42,16 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 | 8.45 -- 9.00   | Opening address      |     |                 |
 | 9.00 -- 10:00  | [Gabriel Verret](slides/Verret.pdf)     |                     |                 |
 | 10.00 -- 10.30  | :coffee: `Morning tea (MILC)` :coffee: | | |
-| 10.30 -- 11.00 | [Chen\*](slides/Chen.pdf)               | Bastida\*           |           |
-| 11.00 -- 11.30 | Ding\*               | Tangjai             | Wang\*          |
-| 11.30 -- 12.00 | Zhang*           | Lehner              | Yost            |
-| 12.00 -- 12.30 | Dacaymat\*           | Semple              | Umar            |
+| 10.30 -- 11.00 | [Chen\*](slides/Chen.pdf)               | [Bastida\*](slides/Bastida.pdf)           |           |
+| 11.00 -- 11.30 | Ding\*     | [Tangjai](slides/Tangjai.pdf)    | [Wang\*](slides/Wang.pdf)          |]
+| 11.30 -- 12.00 | [Zhang*](slides/ZZhang.pdf)  | [Lehner](slides/Lehner.pdf)      | [Yost](slides/Yost.pdf)    |
+| 12.00 -- 12.30 | [Dacaymat\*](slides/Dacaymat.pdf)   | [Semple](slides/Semple.pdf)  | [Umar](slides/Umar.pdf)            |
 | 12.30 -- 14.30 | `Lunch break`                                       
 | 14.30 -- 15.30 | [Nina Kamčev (CMSA Prize Winner)](slides/Kamcev.pptx)  |                     |                 |
 | 15.30 -- 16.00 | :coffee: `Afternoon tea (MILC)` :coffee:     |                     |                 |
-| 16.00 -- 16.30 | Basit                | Bunjamin\*          |                 |
-| 16.30 -- 17.00 | Liebenau             | Mitchell\*          |                 |
-| 17.00 -- 17.30 | Hasunuma             | Lacaze-Masmonteil\* |                 |
+| 16.00 -- 16.30 | [Basit](slides/Basit.pdf)     | Bunjamin\*          |                 |
+| 16.30 -- 17.00 | [Liebenau](slides/Liebenau.pdf)     | Mitchell\*          |                 |
+| 17.00 -- 17.30 | Hasunuma   | [Lacaze-Masmonteil\*](slides/Lacaze-Masmonteil.pdf) |                 |
 
 
 <h3 class="unnumbered" id="tuesday">Tuesday</h3>
