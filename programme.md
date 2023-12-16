@@ -68,7 +68,7 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 | 14.30 -- 15.30 | [Gary Greaves](slides/Greaves.pdf)     |                |
 | 15.30 -- 16.00 | :coffee: `Afternoon tea (MILC)` :coffee:       |                |
 | 16.00 -- 16.30 | [Allsop\*](slides/Allsop.pdf)        | Imamura        |
-| 16.30 -- 17.00 | [Ghafari Baghestani\*](slides/Ghafari.pdf)       | [Kawabuchi](slides/Kawabuchu.pdf)     |
+| 16.30 -- 17.00 | [Ghafari Baghestani\*](slides/Ghafari.pdf)       | [Kawabuchi](slides/Kawabuchi.pdf)     |
 | 17.00 -- 17.30 | CMSA AGM           |                |
 
 
@@ -80,7 +80,7 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 | 10.00 -- 10.30 | :coffee: `Morning tea (MILC)` :coffee:       |                |
 | 10.30 -- 11.00 | [Arumugam\*](slides/Arumugam.pdf)           | Maruta         |
 | 11.00 -- 11.30 | [Syrotiuk](slides/Syrotiuk.pdf)        | Yasufuku       |
-| 11.30 -- 12.00 | [Hirao](slides/Hirao.pdf)             | Hafidh\*       |
+| 11.30 -- 12.00 | [Hirao](slides/Hirao.pdf)             | [Hafidh\*](slides/Hafidh.pdf)       |
 | 12.00 -- 12:30 | [Hawtin](slides/Hawtin.pdf)          | Zhang\*        |
 | 12.30 -- 13.30 | `Lunch break`        |                |
 | 14.00 -- 17.00 | *Excursion*  :bus:    |                |
