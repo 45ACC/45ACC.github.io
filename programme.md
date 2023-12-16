@@ -43,7 +43,7 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 | 9.00 -- 10:00  | [Gabriel Verret](slides/Verret.pdf)     |                     |                 |
 | 10.00 -- 10.30  | :coffee: `Morning tea (MILC)` :coffee: | | |
 | 10.30 -- 11.00 | [Chen\*](slides/Chen.pdf)               | [Bastida\*](slides/Bastida.pdf)           |           |
-| 11.00 -- 11.30 | Ding\*     | [Tangjai](slides/Tangjai.pdf)    | [Wang\*](slides/Wang.pdf)          |]
+| 11.00 -- 11.30 | Ding\*     | [Tangjai](slides/Tangjai.pdf)    | Wang\*          |
 | 11.30 -- 12.00 | [Zhang*](slides/ZZhang.pdf)  | [Lehner](slides/Lehner.pdf)      | [Yost](slides/Yost.pdf)    |
 | 12.00 -- 12.30 | [Dacaymat\*](slides/Dacaymat.pdf)   | [Semple](slides/Semple.pdf)  | [Umar](slides/Umar.pdf)            |
 | 12.30 -- 14.30 | `Lunch break`                                       
