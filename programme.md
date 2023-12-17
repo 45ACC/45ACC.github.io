@@ -93,7 +93,7 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 | 9.00 -- 10:00  | Tibor Szabó          |                |
 | 10.00 -- 10.30 | :coffee: `Morning tea (MILC)` :coffee:             |                |
 | 10.30 -- 11.00 | [Gentle\*](slides/Gentle.pdf)      | [Gunasekara](slides/Gunasekara.pdf)     |
-| 11.00 -- 11.30 | [Miura](slides/Miura.pdf)                   | [Mitrović\*](slides/Mitrovic.pdf)        |
+| 11.00 -- 11.30 | Miura                   | [Mitrović\*](slides/Mitrovic.pdf)        |
 | 11.30 -- 12.00 | [Lia](slides/Lia.pdf)      | [Smith\*](slides/Smith.pdf)       |
 | 12.00 -- 12.30 | [De Beule](slides/DeBeule.pdf)               | Li\*           |
 | 12.30 -- 14.30 | `Lunch break`             |                |
