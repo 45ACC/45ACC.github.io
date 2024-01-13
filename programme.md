@@ -80,7 +80,7 @@ Registration and Welcome Reception (EZone): 17:00 — 19:00.
 | 10.00 -- 10.30 | :coffee: `Morning tea (MILC)` :coffee:       |                |
 | 10.30 -- 11.00 | [Arumugam\*](slides/Arumugam.pdf)           | Maruta         |
 | 11.00 -- 11.30 | [Syrotiuk](slides/Syrotiuk.pdf)        | Yasufuku       |
-| 11.30 -- 12.00 | [Hirao](slides/Hirao.pdf)             | [Hafidh\*](slides/Hafidh.pdf)       |
+| 11.30 -- 12.00 | Hirao            | [Hafidh\*](slides/Hafidh.pdf)       |
 | 12.00 -- 12:30 | [Hawtin](slides/Hawtin.pdf)          | [Zhang\*](slides/CZhang.pdf)        |
 | 12.30 -- 13.30 | `Lunch break`        |                |
 | 14.00 -- 17.00 | *Excursion*  :bus:    |                |
